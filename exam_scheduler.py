@@ -186,7 +186,7 @@ def main():
 
 
 def tester():
-    exam_list = ['exam_times_1.csv', 'exam_times_2.csv', 'exam_times_3.csv', 'exam_times_4.csv', 'exam_times_5.csv']
+    exam_list = ['exam_times_1.csv', 'exam_times_2.csv', 'exam_times_3.csv', 'exam_times_4.csv', 'exam_times_5.csv', 'exam_times_6.csv']
     room_list = ['room_avail_1.csv', 'room_avail_2.csv', 'room_avail_3.csv', 'room_avail_4.csv', 'room_avail_5.csv', 'room_avail_6.csv']
 
     for exam_file in exam_list:
